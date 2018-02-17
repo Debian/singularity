@@ -25,6 +25,7 @@
     - Dave Love <d.love@liverpool.ac.uk>
     - Felix Abecassis <fabecassis@nvidia.com>
     - George Hartzell <hartzell@alerce.com>
+    - James Cowgill <jcowgill@debian.org>
     - Jarrod Johnson <jjohnson2@lenovo.com>
     - Jason Stover <jason.stover@gmail.com>
     - Jeff Kriske <jekriske@gmail.com>
